@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h3 align="center">Pix2pix Facade Generation</h3>
+  <h2 align="center">Pix2pix Facade Generation</h2>
   <p align="center">
     <!-- <br />
     <a href="https://huggingface.co/spaces/darkCat/Pix2pix-Facade-Generation"><strong>Play the model »</strong></a>
