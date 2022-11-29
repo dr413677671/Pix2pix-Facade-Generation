@@ -52,7 +52,7 @@ Pix2pix on facade generation, based on [facade dataset](http://efrosgans.eecs.be
 - [x] Others
     - [x] Standardlization
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Built With
 
@@ -71,6 +71,8 @@ Pix2pix on facade generation, based on [facade dataset](http://efrosgans.eecs.be
 * [Facade Dataset](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/)
 * [pix2pix: Image-to-image translation with a conditional GAN](https://www.tensorflow.org/tutorials/generative/pix2pix)
 * Logo genetrared by <a href="https://github.com/CompVis/stable-diffusion">Stable-Diffusion</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/dr413677671/Pix2pix-Facade-Generation.svg?style=for-the-badge
 [contributors-url]: https://github.com/dr413677671/Pix2pix-Facade-Generation/graphs/contributors
