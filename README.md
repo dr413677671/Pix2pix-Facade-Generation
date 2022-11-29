@@ -64,11 +64,7 @@ Pix2pix on facade generation, based on [facade dataset](http://efrosgans.eecs.be
 * [![Tensorflow][Tensorflow]][Tensorflow-url]
 * [![Keras][Keras]][Keras-url]
 
-<br>
-
 ## Contact
-
-<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' margin='10px' height='40'>](https://github.com/https://github.com/dr413677671) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@randuan9718/videos) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg' alt='zhihu' height='40'>](https://www.zhihu.com/people/kumonoue) 
 
