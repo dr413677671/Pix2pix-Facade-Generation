@@ -9,18 +9,14 @@
 [![Issues][issues-shield]][issues-url]
 
 </div>
-<!-- [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <div align="center">
   <a href="https://github.com/dr413677671/Pix2pix-Facade-Generation">
     <img src="docs/logo.png" alt="Logo" width="384" height="216">
   </a>
 </div>
-<!-- PROJECT LOGO -->
+
 <div align="center">
-
-
   <h3 align="center">Pix2pix Facade Generation</h3>
   <p align="center">
     <!-- <br />
