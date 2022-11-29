@@ -12,14 +12,12 @@
 <!-- [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-<br />
 <div align="center">
   <a href="https://github.com/dr413677671/Pix2pix-Facade-Generation">
     <img src="docs/logo.png" alt="Logo" width="384" height="216">
   </a>
 </div>
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
 
 
